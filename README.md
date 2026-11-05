@@ -9,3 +9,5 @@ Day 4: Learning basic mathematics in python and creating calculators of the area
 Day 5: Learning the If statement with some exercises
 
 Day 6: Creating a simple Python calculator and a weight converter.
+
+Day 7: Creating a temperature converter and learning basic logical operators.
