@@ -11,3 +11,5 @@ Day 5: Learning the If statement with some exercises
 Day 6: Creating a simple Python calculator and a weight converter.
 
 Day 7: Creating a temperature converter and learning basic logical operators.
+
+Day 8: Learning and practicing conditional expressions.
